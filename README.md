@@ -1,1 +1,2 @@
-exercise 1 norio u5l
+Yshihero S. Norio | CMSC 100 - U5L | 01-31-2025
+EXERCISE #1: GIT
